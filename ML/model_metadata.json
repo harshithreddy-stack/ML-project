@@ -1,0 +1,11 @@
+{
+    "project": "Fertilizer Requirement Prediction Using Regularized Logistic Regression",
+    "authors": [
+        "Sai Snehith (2520090149)",
+        "Harshith Reddy (2520090114)"
+    ],
+    "department": "CSIT",
+    "timestamp": "2026-10-12 21:58:14",
+    "test_f1_score": 0.8101761252446184,
+    "test_roc_auc": 0.8786858974358973
+}
